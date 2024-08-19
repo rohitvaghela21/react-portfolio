@@ -1,0 +1,229 @@
+{
+  "main": {
+    "name": "Manthan Ank", 
+    "last":"roy",
+    "age":"26 years",
+    "Langages":"English ,Gujarati",
+    "Freelance":{
+      "Available" :"Available" ,
+      "NotAvailable":"NotAvailable"
+    },
+    "occupation": "Software Engineer",
+    "hobbies": "Wake Up, Code, learn, eat and sleep!",
+    "image": "profilepic.webp",
+    "bio": "Hi there! I am Manthan! You might also know me as manthanank. I've been coding over 4 years now. I started my journey in web development and enrolled for training programme and also done various internships in front-end as well as backend. Currently working as Software Engineer.",
+    "contactmessage": "Get in touch with me!",
+    "email": "manthan.ank46@gmail.com",
+    "phone": "+91 8105068268",
+    "address": {
+      "street": "Ankola",
+      "city": "Uttar Kannada (Karwar)",
+      "state": "Karnataka",
+      "zip": "581314"
+    },
+    "website": "#home",
+    "resumedownload": "https://tunis-nextjs.netlify.app/home-dark",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/manthan_ank",
+        "className": "fa fa-twitter",
+        "icon":"faTwitter"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Manthan.ankolekar/",
+        "className": "fa fa-facebook",
+         "icon":"faFacebookF"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/manthan-ankolekar-597b07a8/",
+        "className": "fa fa-linkedin",
+         "icon":"faLinkedinIn"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/manthan_ank/",
+        "className": "fa fa-instagram",
+         "icon":"faInstagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/manthanank",
+        "className": "fa-brands fa-github",
+        "icon":"faGithub"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Sahyadri College of Engineering and Management",
+        "degree": "Bachelor's Degree",
+        "graduated": "Aug 2020",
+        "description": "Graduated in Computer Science"
+      }
+    ],
+    "work": [
+      {
+        "company": "Blackcoffer",
+        "title": "Software Engineer",
+        "years": "Feb 2023 - Present",
+        "description": "Worked for 6 months as Associate Software Engineer. Worked in both Front End as well as Backend Projects. Work in most of the dashboard type projects. And also manage the projects & deploy it. Angular Framework in Front End & In backend Nodejs. Stack is MEAN."
+      },
+      {
+        "company": "AppiVa Software Pvt.Ltd",
+        "title": "Full Stack Developer Intern",
+        "years": "May 2022 - Dec 2022",
+        "description": "Worked for 3 months as Intern. Worked in both Front End as well as Backend Projects. Work is to design and develop in projects. And also manage the projects & deploy it. Angular Framework in Front End & In backend Nodejs + Python. With Frebase as Databse."
+      },
+      {
+        "company": "Faclon Labs Pvt.Ltd",
+        "title": "Angular Developer Intern",
+        "years": "22 Nov 2021 - 25 Apr 2022",
+        "description": "Worked for 3 months as Intern And 3 months as Full Time Front End Angular Developer. Work was to design and develop in projects like Admin Panel, IOSense(Main Project), Report UI."
+      },
+      {
+        "company": "Karanji InfoTech Pvt.Ltd",
+        "title": "Student Intern",
+        "years": "May 2019 - Jun 2019",
+        "description": "Completed one month internship and project on machine learning using python “Conversion Text to Speech Construction Using Multiple Data (CSV file)”."
+      },
+      {
+        "company": "Karanji InfoTech Pvt.Ltd",
+        "title": "Student Intern",
+        "years": "May 2019 - Jun 2019",
+        "description": "Completed one month internship and project on machine learning using python “Conversion Text to Speech Construction Using Multiple Data (CSV file)”."
+      },
+      {
+        "company": "Karanji InfoTech Pvt.Ltd",
+        "title": "Student Intern",
+        "years": "May 2019 - Jun 2019",
+        "description": "Completed one month internship and project on machine learning using python “Conversion Text to Speech Construction Using Multiple Data (CSV file)”."
+      },
+      {
+        "company": "Karanji InfoTech Pvt.Ltd",
+        "title": "Student Intern",
+        "years": "May 2019 - Jun 2019",
+        "description": "Completed one month internship and project on machine learning using python “Conversion Text to Speech Construction Using Multiple Data (CSV file)”."
+      },
+      {
+        "company": "Karanji InfoTech Pvt.Ltd",
+        "title": "Student Intern",
+        "years": "May 2019 - Jun 2019",
+        "description": "Completed one month internship and project on machine learning using python “Conversion Text to Speech Construction Using Multiple Data (CSV file)”."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React js",
+        "level": "85"
+      },
+      {
+        "name": "JavaScript",
+        "level": "78"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "80"
+      },
+      {
+        "name": "HTML",
+        "level": "75"
+      },
+      {
+        "name": "css",
+        "level": "60"
+      },
+      {
+        "name": "Git/Github",
+        "level": "80"
+      },
+      {
+        "name": "Front-End Development",
+        "level": "90"
+      },
+      {
+        "name": "Figma Expert",
+        "level": "70"
+      }
+    ]
+  },
+  "myworks":[
+    {
+      "name":"ipsum dolor sit amet consectetur adipisicing elit.",
+      "image":"https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description":"lorem35Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ad inventore quisquam quia perspiciatis quidem error fugiat non sunt autem voluptas aperiam ducimus, commodi suscipit veniam obcaecati laboriosam quo placeat cum rem. Non nobis dolorem tenetur. Aliquid, veritatis repellat! Enim molestias nihil saepe maiores nemo reiciendis tempore dolorem hic atque."
+    },
+    {
+      "name":"ipsum dolor sit amet consectetur adipisicing elit.",
+      "image":"https://images.unsplash.com/photo-1618424562492-f778e25652a1?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description":"lorem35Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ad inventore quisquam quia perspiciatis quidem error fugiat non sunt autem voluptas aperiam ducimus, commodi suscipit veniam obcaecati laboriosam quo placeat cum rem. Non nobis dolorem tenetur. Aliquid, veritatis repellat! Enim molestias nihil saepe maiores nemo reiciendis tempore dolorem hic atque."
+    },
+    {
+      "name":"ipsum dolor sit amet consectetur adipisicing elit.",
+      "image":"https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description":"lorem35Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ad inventore quisquam quia perspiciatis quidem error fugiat non sunt autem voluptas aperiam ducimus, commodi suscipit veniam obcaecati laboriosam quo placeat cum rem. Non nobis dolorem tenetur. Aliquid, veritatis repellat! Enim molestias nihil saepe maiores nemo reiciendis tempore dolorem hic atque."
+    },
+    {
+      "name":"ipsum dolor sit amet consectetur adipisicing elit.",
+      "image":"https://images.unsplash.com/photo-1610641563856-4ec0223d7084?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description":"lorem35Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ad inventore quisquam quia perspiciatis quidem error fugiat non sunt autem voluptas aperiam ducimus, commodi suscipit veniam obcaecati laboriosam quo placeat cum rem. Non nobis dolorem tenetur. Aliquid, veritatis repellat! Enim molestias nihil saepe maiores nemo reiciendis tempore dolorem hic atque."
+    },
+    {
+      "name":"ipsum dolor sit amet consectetur adipisicing elit.",
+      "image":"https://images.unsplash.com/photo-1555421689-d68471e189f2?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description":"lorem35Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ad inventore quisquam quia perspiciatis quidem error fugiat non sunt autem voluptas aperiam ducimus, commodi suscipit veniam obcaecati laboriosam quo placeat cum rem. Non nobis dolorem tenetur. Aliquid, veritatis repellat! Enim molestias nihil saepe maiores nemo reiciendis tempore dolorem hic atque."
+    },
+    {
+      "name":"ipsum dolor sit amet consectetur adipisicing elit.",
+      "image":"https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description":"lorem35Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ad inventore quisquam quia perspiciatis quidem error fugiat non sunt autem voluptas aperiam ducimus, commodi suscipit veniam obcaecati laboriosam quo placeat cum rem. Non nobis dolorem tenetur. Aliquid, veritatis repellat! Enim molestias nihil saepe maiores nemo reiciendis tempore dolorem hic atque."
+    },
+    {
+      "name":"ipsum dolor sit amet consectetur adipisicing elit.",
+      "image":"https://images.unsplash.com/photo-1555421689-d68471e189f2?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description":"lorem35Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ad inventore quisquam quia perspiciatis quidem error fugiat non sunt autem voluptas aperiam ducimus, commodi suscipit veniam obcaecati laboriosam quo placeat cum rem. Non nobis dolorem tenetur. Aliquid, veritatis repellat! Enim molestias nihil saepe maiores nemo reiciendis tempore dolorem hic atque."
+    },
+    {
+      "name":"ipsum dolor sit amet consectetur adipisicing elit.",
+      "image":"https://images.unsplash.com/photo-1555421689-d68471e189f2?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description":"lorem35Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ad inventore quisquam quia perspiciatis quidem error fugiat non sunt autem voluptas aperiam ducimus, commodi suscipit veniam obcaecati laboriosam quo placeat cum rem. Non nobis dolorem tenetur. Aliquid, veritatis repellat! Enim molestias nihil saepe maiores nemo reiciendis tempore dolorem hic atque."
+    },
+    {
+      "name":"ipsum dolor sit amet consectetur adipisicing elit.",
+      "image":"https://images.unsplash.com/photo-1555421689-d68471e189f2?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description":"lorem35Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ad inventore quisquam quia perspiciatis quidem error fugiat non sunt autem voluptas aperiam ducimus, commodi suscipit veniam obcaecati laboriosam quo placeat cum rem. Non nobis dolorem tenetur. Aliquid, veritatis repellat! Enim molestias nihil saepe maiores nemo reiciendis tempore dolorem hic atque."
+    }
+  ],
+  "portfolio": {
+    "profiles": [
+      {
+        "title": "LinkedIn",
+        "category": "Profile",
+        "image": "linkedin-profile.webp",
+        "url": "#"
+      },
+      {
+        "title": "GitHub",
+        "category": "Profile",
+        "image": "github-profile.webp",
+        "url": "#"
+      },
+      {
+        "title": "Twitter",
+        "category": "Profile",
+        "image": "twitter-profile.webp",
+        "url": "#"
+      },
+      {
+        "title": "CodePen",
+        "category": "Profile",
+        "image": "codepen-profile.webp",
+        "url": "#"
+      }
+    ]
+  }
+}
