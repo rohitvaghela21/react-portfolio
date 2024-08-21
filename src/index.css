@@ -626,6 +626,7 @@ html {
   max-width: 1200px;
   margin: 0 auto;
   display: flex;
+  padding: 0 20px;
 }
 
 .contact_details {
@@ -855,6 +856,7 @@ textarea {
   .content {
     width: auto;
     margin: 0;
+    padding: 0 0;
   }
 
   .contener {

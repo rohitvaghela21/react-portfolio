@@ -11,7 +11,7 @@ const Works = ({ data }) => {
                     <h1>My<span>Portfolio</span></h1>
                     <span className='title_background'>Works</span>
                 </div>
-                <section className='content'>
+                <section className='w-full max-w-[1200px] mx-auto my-[0] flex'>
                     <div className="contener">
                         <section className='contener_collection'>
                             {myprojects.map((pro, index) => (
